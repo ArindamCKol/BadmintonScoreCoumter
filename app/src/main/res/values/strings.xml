@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BadmintonScoreCoumter</string>
+    <string name="app_header">Badminton Score : Single Player</string>
+    <string name="button_won">Rally Won!</string>
+    <string name="player_one_name">Player One</string>
+    <string name="player_two_name">Player Two</string>
+    <string name="match_summery">Start Playing</string>
+    <string name="initial_score">0</string>
+    <string name="button_reset">Reset</string>
+
+</resources>
